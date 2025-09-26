@@ -2,7 +2,7 @@
 **CMSI 2021** Web Application Development, Fall 2025, DUE: October 1st
 
 # Assignment Generic Api Backed
-This assignment aims to level you up in multiple ways:
+This assignment aims to level you up in multiple ways: 
 * Creating and deploying a React web application
 * Fetching and displaying data from a public API
 * Writing asynchronous code in JavaScript
